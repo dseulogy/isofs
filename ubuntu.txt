@@ -1,0 +1,5 @@
+mkisofs -V "DEPENDENCY" -J -r -o /home/ugur/DEPENDENCY.iso /home/ugur/DEPENDENCY/
+
+UBUNTU PACKAGE FORMAT
+
+sudo apt-get install cdda2wav cdrecord mkisofs
