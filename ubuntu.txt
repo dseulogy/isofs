@@ -1,4 +1,4 @@
-mkisofs -V "DEPENDENCY" -J -r -o /home/ugur/DEPENDENCY.iso /home/ugur/DEPENDENCY/
+mkisofs -V "DEPENDENCY" -J -r -o /home/DEPENDENCY.iso /home/DEPENDENCY/
 
 UBUNTU PACKAGE FORMAT
 
